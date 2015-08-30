@@ -1,8 +1,4 @@
 
-
-
-
-
 ## Grunt dependencies
 
 ### [connect-livereload](https://github.com/intesso/connect-livereload)
